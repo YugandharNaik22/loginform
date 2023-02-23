@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://wallpapertag.com/wallpaper/full/7/3/8/350870-amazing-website-background-1920x1080.jpg");
+    background-size: cover;
+    height: 120vh;
+    padding: 20px;
+}
+
+.container {
+    background-image: url("https://www.urbaninsight.com/sites/default/files/images/article/page_background_image/2020-10/gastbyjs-future-progressive-web-apps.png");
+    background-size: cover;
+    height: 110vh;
+    padding: 20px;
+}
+
+.form-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: yellow;
+    text-align: center;
+}
+
+.bottom-container {
+    padding-top: 30px;
+    background-color: cyan;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
